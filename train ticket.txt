@@ -1,0 +1,13 @@
+Train Number = 12345
+Number of passengers = 2
+Date of travel = 14-11-2019
+
+
+
+Passenger [1] Name -	qwewq qweqw
+Passenger [1] Age -	23
+Passenger [1] Gender (M/F) -	M
+
+Passenger [2] Name -	ewre rtre
+Passenger [2] Age -	32
+Passenger [2] Gender (M/F) -	F
